@@ -1,0 +1,3 @@
+D:\learning cpp\SnakeGame\SnakeGame\Snake\Debug\Snake.exe
+D:\learning cpp\SnakeGame\SnakeGame\Snake\Debug\Snake.pdb
+D:\learning cpp\SnakeGame\SnakeGame\Debug\Snake.pdb
